@@ -1,0 +1,21 @@
+{
+  "name": "teste-automatizados-e2e-wesleyveloso30",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10606297&assignment_repo_type=AssignmentRepo)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifpi-picos/teste-automatizados-e2e-WesleyVeloso30.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifpi-picos/teste-automatizados-e2e-WesleyVeloso30/issues"
+  },
+  "homepage": "https://github.com/ifpi-picos/teste-automatizados-e2e-WesleyVeloso30#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.0"
+  }
+}
