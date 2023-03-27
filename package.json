@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/ifpi-picos/teste-automatizados-e2e-WesleyVeloso30#readme",
   "devDependencies": {
+    "@cucumber/cucumber": "^9.0.1",
     "@playwright/test": "^1.32.0"
   }
 }
